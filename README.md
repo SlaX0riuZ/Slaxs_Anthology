@@ -19,3 +19,5 @@ gwa by FlamemasterNXF<br>
 All art by Slax :)<br>
 
 Thank you for checking this out!
+
+## ZIP FILE FOR MOD IN RELEASES!!!
