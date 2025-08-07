@@ -21,4 +21,4 @@ All art by Slax :)<br>
 Thank you for checking this out!
 
 ## ZIP FILE FOR MOD IN RELEASES!!!
-## DOWNLOAD THE "slaxsanthology_<numbers>.zip" NOT THE SOURCE CODE
+## DOWNLOAD THE "slaxsanthology_\<numbers\>.zip" NOT THE SOURCE CODE
